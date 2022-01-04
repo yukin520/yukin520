@@ -1,4 +1,4 @@
-### Hi Iam Yuki 👋
+### Hi, I'm Yuki 👋
 - I'm cloud engineer in tokyo.  
 - I love music, especially bass.  
 
