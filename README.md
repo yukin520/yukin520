@@ -1,5 +1,4 @@
-## Hi, I'm Yuki 👋
-- I'm cloud engineer in tokyo.  
+## Hi, I'm Yuki 👋 
 - I love music, especially bass.  
 
 ## Github Status
