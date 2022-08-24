@@ -1,5 +1,5 @@
 ## Hi, I'm Yuki 👋 
-- I love music, especially bass.  
+  
 
 ## Github Status
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Yuki0520-ba&count_private=true&show_icons=true)  
